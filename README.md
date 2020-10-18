@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Marcel 👋</h1>
+<h1 align="center">Hello, I'm Refaat 👋</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mkredzel&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ref-bit&label=Profile+Views" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
